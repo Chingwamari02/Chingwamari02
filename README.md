@@ -11,9 +11,19 @@
 - 🔐 Expanding my knowledge toward **cybersecurity**, offensive/defensive concepts, and system hardening.
 
 ### 🧰 Tech & Tools 
-- **Languages & Frameworks:** PHP, Kotlin, TypeScript, SQL, HTML/CSS
-- **Backend & Databases:** MySQL, PDO, REST APIs
-- **Dev Tools & OS:** Git, GitHub, Linux, Android Studio, XAMPP
+- **Languages & Frameworks:** PHP
+-  Kotlin
+- TypeScript
+- SQL
+- HTML/CSS
+- **Backend & Databases:** MySQL
+- PDO
+- REST APIs
+- **Dev Tools & OS:** Git
+- GitHub
+- Linux
+- Android Studio
+- XAMPP
 
 📫 **How to reach me:** chingwamariacademic@gmail.com
 
